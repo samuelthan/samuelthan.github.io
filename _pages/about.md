@@ -1,35 +1,19 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: About
+#subtitle: A stunning personal blog Jekyll theme with an image-focused design.
+#description: A stunning personal blog Jekyll theme with an image-focused design.
+featured_image: /images/about/potrait.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+Hello, i'm Samuel Than, AI/ML DevOps Engineer at [Carsales](https://carsales.com.au). 
 
-## Features
+Have been in the IT industry for quite sometime started as a humble Sysadmin, then DevOps and currently learning and enjoying the field of AI/ML Ops engineering.
 
-Journal is packed with powerful features to showcase your work:
+There is so much going on in tech and yes, it is hard to keep up. Hence, this journal/blog is an attempt to upload some part of my learnings, in hope that the future me may refer this as a reminder of the how/what/why of various tech or a help someone in the tech community.
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
 
-## Get Index
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+
+
+
