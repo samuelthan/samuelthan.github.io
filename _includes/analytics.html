@@ -1,11 +1,11 @@
-{% assign analytics_code = site.data.settings.advanced_settings.analytics_code %}
+{% assign prod_analytics_code = site.data.settings.advanced_settings.analytics_code %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async
-        src="https://www.googletagmanager.com/gtag/js?id={{analytics_code}}">
+        src="https://www.googletagmanager.com/gtag/js?id={{prod_analytics_code}}">
 </script>
 <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', '{{analytics_code}}');
+    gtag('config', '{{prod_analytics_code}}');
 </script>
