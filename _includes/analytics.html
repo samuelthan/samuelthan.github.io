@@ -1,6 +1,4 @@
-{% if jekyll.environment == 'production' %}
-{% assign analytics_code = site.analytics_code %}
-{% endif %}
+{% assign analytics_code = site.data.settings.advanced_settings.analytics_code %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async
         src="https://www.googletagmanager.com/gtag/js?id={{analytics_code}}">
