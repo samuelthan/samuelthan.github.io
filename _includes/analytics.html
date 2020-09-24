@@ -1,0 +1,13 @@
+{% if jekyll.environment == 'production' %}
+{% assign analytics_code = site.analytics_code %}
+{% endif %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async
+        src="https://www.googletagmanager.com/gtag/js?id={{analytics_code}}">
+</script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{analytics_code}}');
+</script>
